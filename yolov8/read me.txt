@@ -1,0 +1,3 @@
+new version of project using yolo8 and run with website
+
+you need to run only app.py sheet 
